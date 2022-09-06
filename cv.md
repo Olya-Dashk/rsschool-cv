@@ -10,7 +10,7 @@
 -----
 ### **EDUCATION**
 
-**Minsk State Linguistic University**
+**Minsk State Linguistic University** [(Official website)](https://www.mslu.by/ "University official website")
 
 September 2017 - January 2022
 
