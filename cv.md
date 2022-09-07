@@ -69,7 +69,7 @@ May 2021 - to present
 
 **RS School Student**
 
-Project: CV#1. Mardown & Git
+Project: [CV#1. Mardown & Git](https://Olya-Dashk.github.io/rsschool-cv/cv "Link to CV")
 
 -----
 ### **CODE EXAMPLE**
