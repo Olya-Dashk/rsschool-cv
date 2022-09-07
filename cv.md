@@ -63,6 +63,11 @@ May 2021 - to present
 * translation of accounting, legal, economic, technical and QMS documents;
 * editorial preparation and adaptation of articles;
 * interpretation of audits, meetings with foreign partners.
+
+**RS School Student**
+
+Project: CV#1. Mardown & Git
+
 -----
 ### **CODE EXAMPLE**
 Requirements: *This code does not execute properly. Try to figure out why.*
