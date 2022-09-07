@@ -7,6 +7,7 @@
 * Email: ***dashkovskaya00@mail.ru***
 * Discord: ***Olga Dashkovskaya#4965***
 * Phone: ***+375447073722***
+
 -----
 ### **BRIEFLY ABOUT MYSELF**
 
@@ -34,6 +35,7 @@ May 2022 - August 2022
 * HTML;
 * CSS;
 * Java Script basics.
+
 -----
 ### **PROFESSIONAL SKILLS**
 
@@ -51,6 +53,7 @@ May 2022 - August 2022
 * Java Script Basics;
 * GitHub;
 * Atom.
+
 -----
 ### **WORK EXPERIENCE**
 
