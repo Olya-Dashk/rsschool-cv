@@ -8,6 +8,13 @@
 * Discord: ***Olga Dashkovskaya#4965***
 * Phone: ***+375447073722***
 -----
+### **BRIEFLY ABOUT MYSELF**
+
+My name is Olga Dashkovskaya and I am an alumna of the Minsk State Linguistic University. Since May 2021, I work as a translator and interpreter. Nevertheless, I want to develop in the field of information technologies, namely in the Front-end development. I studied HTML, CSS and JavaScript Basics on my own with online video tutorials on YouTube (channel: [itProger School](https://www.youtube.com/channel/UCCXF68Da_ndcmvv_9OG75Cw/featured)), did a lot of tasks in HTML and CSS in order to bring the coding practice to automatism, to put my knowledge into practice and enrich my experience in information technologies. 
+
+I’m interested in the Front-end program developed by the Rolling Scopes School because it is a unique opportunity to be trained in one of the largest international IT communities. I believe that this program is a start to a new future that offers great opportunities. And I'm excited to join this innovative team to make an immediate impact, continue to create great projects, and grow within the community by honing my skills.
+
+-----
 ### **EDUCATION**
 
 **Minsk State Linguistic University** [(Official website)](https://www.mslu.by/ "University official website")
