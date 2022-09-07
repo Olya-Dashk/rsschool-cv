@@ -42,7 +42,8 @@ May 2022 - August 2022
 * HTML;
 * CSS;
 * Java Script Basics;
-* GitHub.
+* GitHub;
+* Atom.
 -----
 ### **WORK EXPERIENCE**
 
@@ -57,3 +58,11 @@ May 2021 - to present
 * interpretation of audits, meetings with foreign partners.
 -----
 ### **CODE EXAMPLE**
+Requirements: *This code does not execute properly. Try to figure out why.*
+```
+function multiply (a, b) {
+  return (a * b);
+}
+let result = multiply (2, 5);
+console.log (result);
+```
