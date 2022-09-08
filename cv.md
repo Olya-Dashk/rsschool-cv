@@ -81,7 +81,7 @@ function multiply (a, b) {
 let result = multiply (2, 5);
 console.log (result);
 ```
-----
+-----
 ### **LANGUAGE SKILLS**
 * Russian (Proficient);
 * English (Advanced); 
